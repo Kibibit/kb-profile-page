@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Kibibit/kb-login-page" target="blank"><img src="http://kibibit.io/kibibit-assets/profile.svg" width="150" ></a>
+  <a href="https://github.com/Kibibit/kb-login-page" target="blank"><img src="http://kibibit.io/kibibit-assets/kb-profile-apps/005-blocks.svg" width="150" ></a>
   <h2 align="center">
     @kibibit/kb-profile-page
   </h2>
